@@ -1,0 +1,5 @@
+{
+  "name": "AI Form Builder & Sheet",
+  "description": "A Google Forms clone where you can build forms with AI assistance and view responses in a connected sheet. All data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
